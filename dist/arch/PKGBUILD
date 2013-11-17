@@ -1,7 +1,7 @@
 pkgname=direnv
 pkgver=2.1.0
 pkgrel=1
-pkgdesc='Shell extension to manage your ENV'
+pkgdesc='a shell extension that manages your environment'
 arch=('x86_64' 'i686')
 url='http://direnv.net'
 license=('MIT')
